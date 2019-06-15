@@ -1,0 +1,11 @@
+c:\users\emperator122\documents\visual studio 2015\Projects\9mayPhotoColorizer\9mayPhotoColorizer\bin\Debug\9mayPhotoColorizer.exe
+c:\users\emperator122\documents\visual studio 2015\Projects\9mayPhotoColorizer\9mayPhotoColorizer\bin\Debug\9mayPhotoColorizer.pdb
+c:\users\emperator122\documents\visual studio 2015\Projects\9mayPhotoColorizer\9mayPhotoColorizer\obj\Debug\9mayPhotoColorizer.csprojResolveAssemblyReference.cache
+c:\users\emperator122\documents\visual studio 2015\Projects\9mayPhotoColorizer\9mayPhotoColorizer\obj\Debug\_9mayPhotoColorizer.Form1.resources
+c:\users\emperator122\documents\visual studio 2015\Projects\9mayPhotoColorizer\9mayPhotoColorizer\obj\Debug\_9mayPhotoColorizer.Properties.Resources.resources
+c:\users\emperator122\documents\visual studio 2015\Projects\9mayPhotoColorizer\9mayPhotoColorizer\obj\Debug\9mayPhotoColorizer.csproj.GenerateResource.Cache
+c:\users\emperator122\documents\visual studio 2015\Projects\9mayPhotoColorizer\9mayPhotoColorizer\obj\Debug\9mayPhotoColorizer.exe
+c:\users\emperator122\documents\visual studio 2015\Projects\9mayPhotoColorizer\9mayPhotoColorizer\obj\Debug\9mayPhotoColorizer.pdb
+C:\Users\Emperator122\documents\visual studio 2015\Projects\9mayPhotoColorizer\9mayPhotoColorizer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Emperator122\documents\visual studio 2015\Projects\9mayPhotoColorizer\9mayPhotoColorizer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Emperator122\documents\visual studio 2015\Projects\9mayPhotoColorizer\9mayPhotoColorizer\bin\Debug\9mayPhotoColorizer.exe.config
